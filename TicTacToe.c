@@ -149,7 +149,7 @@ char checkWinner()
             return board[0][i];
         }
     }
-    
+
     //checking diagnols
     for(int i=0; i<3; i++)
     {
